@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/TareasReact-App/static/css/main.d660404f.css",
+    "main.js": "/TareasReact-App/static/js/main.b711cb0b.js",
+    "static/media/CheckList_logo.png": "/TareasReact-App/static/media/CheckList_logo.b14b776d4ef3edc66efe.png",
+    "index.html": "/TareasReact-App/index.html",
+    "main.d660404f.css.map": "/TareasReact-App/static/css/main.d660404f.css.map",
+    "main.b711cb0b.js.map": "/TareasReact-App/static/js/main.b711cb0b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d660404f.css",
+    "static/js/main.b711cb0b.js"
+  ]
+}
